@@ -1,7 +1,8 @@
-package com.androiddevs.runningappyt
+package com.androiddevs.runningappyt.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.androiddevs.runningappyt.R
 
 class MainActivity : AppCompatActivity() {
 
