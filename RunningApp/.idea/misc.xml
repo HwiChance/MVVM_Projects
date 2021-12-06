@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ji/AndroidProjects/MVVM_Projects/RunningApp/app/src/main/res/layout-land/fragment_statistics.xml" value="0.1" />
+        <entry key="..\:/Users/Ji/AndroidProjects/MVVM_Projects/RunningApp/app/src/main/res/layout/fragment_statistics.xml" value="0.1" />
+        <entry key="..\:/Users/Ji/AndroidProjects/MVVM_Projects/RunningApp/app/src/main/res/layout/marker_view.xml" value="0.1" />
         <entry key="..\:/Users/Ji/AndroidProjects/MVVM_Projects/RunningApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18703703703703703" />
       </map>
     </option>
